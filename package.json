@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-jl",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "My personal create-react-app template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacoblockett/cra-template.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "dependencies": {
+    "node-sass": "^5.0.0",
+    "prop-types": "^15.7.2",
+    "react-router-dom": "^5.2.0"
+  }
+}
