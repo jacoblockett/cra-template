@@ -20,6 +20,18 @@
   align-items: flex-end;
 }
 
+.align-self-start {
+  align-self: flex-start;
+}
+
+.align-self-center {
+  align-self: center;
+}
+
+.align-self-end {
+  align-self: flex-end;
+}
+
 .justify-start {
   justify-items: flex-start;
 }
@@ -44,6 +56,18 @@
   justify-content: space-around;
 }
 
+.justify-self-start {
+  justify-self: flex-start;
+}
+
+.justify-self-center {
+  justify-self: center;
+}
+
+.justify-self-end {
+  justify-self: flex-end;
+}
+
 .perfect-center {
   align-items: center;
   justify-content: center;
@@ -57,4 +81,19 @@
 .perfect-end {
   align-items: flex-end;
   justify-content: flex-end;
+}
+
+.perfect-self-center {
+  align-self: center;
+  justify-self: center;
+}
+
+.perfect-self-start {
+  align-self: flex-start;
+  justify-self: flex-start;
+}
+
+.perfect-self-end {
+  align-self: flex-end;
+  justify-self: flex-end;
 }
